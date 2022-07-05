@@ -8,7 +8,7 @@ import java.util.Map;
 
 import static java.lang.Float.NaN;
 
-public class cwk2Maps {
+public class CosineSimRecommender {
 
     //Maps users to items to ratings
     private static HashMap<Integer, HashMap<Integer, Integer>> trainingData;

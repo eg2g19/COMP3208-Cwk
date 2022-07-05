@@ -6,7 +6,7 @@ import java.util.Random;
 
 import static java.lang.Math.abs;
 
-public class Cwk3 {
+public class SmallMFRecommender {
 
     //Maps users to items to ratings
     private static HashMap<Integer, HashMap<Integer, Integer>> trainingData;

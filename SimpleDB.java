@@ -77,7 +77,6 @@ public class SimpleDB {
         System.exit(0);
     }
 
-    // TODO Auto-generated constructor stub
     public static void main(String[] args) {
         SimpleDB db = new SimpleDB();
         db.loadRatings();
