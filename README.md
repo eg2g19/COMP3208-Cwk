@@ -2,11 +2,11 @@
 Coursework for COMP3208 - social computing techniques.
 ---
 ## Coursework 2
-files - CosineSimRecommender.java
+files - CosineSimRecommender.java \
 small scale cosine similarity recommender system algorithm.
 
 ## Coursework 3
-files ... \
+files - SmallMFRecommender.java \
 small scale matrix factorization recommender system algorithm.
 
 ## Coursework 4
